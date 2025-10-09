@@ -807,7 +807,7 @@ class PerformanceMonitor:
 
 1. **Clone Repository**:
 ```bash
-git clone https://github.com/yourusername/strikesuite.git
+git clone https://github.com/PM-ADD/strikesuite.git
 cd strikesuite
 ```
 
@@ -1065,20 +1065,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-
-**🛡️ StrikeSuite - Advanced Cybersecurity Testing Framework**
-
-*Built with ❤️ for the cybersecurity community*
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
-
-</div>
-
----
-
-*Last Updated: December 2024*
+*Last Updated: December 2025*
 *Version: 1.0.0*
 *Documentation Version: 1.0*
