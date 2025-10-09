@@ -427,15 +427,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **This tool is for authorized security testing only. Always ensure you have proper permission before testing any system. The authors are not responsible for any misuse of this tool.**
 
 ---
-
-<div align="center">
-
-**🛡️ StrikeSuite - Advanced Cybersecurity Testing Framework**
-
-*Built with ❤️ for the cybersecurity community*
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
-
-</div>
