@@ -515,4 +515,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
 [![GitHub watchers](https://img.shields.io/github/watchers/yourusername/strikesuite?style=social)](https://github.com/yourusername/strikesuite)
 
-</div>
+</div>"# StrikeSuite" 
