@@ -11,7 +11,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/strikesuite.git
+git clone https://github.com/PM-ADD/strikesuite.git
 cd strikesuite
 
 # Create virtual environment
@@ -216,7 +216,7 @@ StrikeSuite Framework
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/yourusername/strikesuite.git
+git clone https://github.com/PM-ADD/strikesuite.git
 cd strikesuite
 ```
 
